@@ -7,4 +7,4 @@ Usage examples:
 `docker run --rm "tastybug/dockerized-kafkacat" -C -b kafkabroker.example ..` for a regular run which highly depends on your
 
 ## Links
-[Dockerhub presence](https://hub.docker.com/repository/docker/tastybug/dockerized-kafkacat)
+[Dockerhub presence](https://hub.docker.com/r/tastybug/dockerized-kafkacat)
